@@ -3,5 +3,7 @@ Python script to download the youtube videos by reading a text file containing m
 
 #How to use
 First you have to install all requirements by 
-~~~~chmod +x install.sh
-    sudo ./install.sh~~~~
+~~~~
+    chmod +x install.sh
+    sudo ./install.sh
+~~~~
